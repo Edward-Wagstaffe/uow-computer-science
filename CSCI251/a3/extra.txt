@@ -1,0 +1,6 @@
+ConnectedLine2D, [0, 0], [5, 0], [8, 8]
+ConnectedLine2D, [-12, 4], [0, 10], [7, -3]
+ConnectedLine2D, [-12, 4], [0, 10], [7, -3]
+ConnectedLine2D, [5, -8], [10, -2], [14, 6]
+ConnectedLine2D, [-9, -7], [-3, 0], [6, -4]
+ConnectedLine2D, [2, 12], [8, 5], [15, 9]
