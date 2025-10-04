@@ -1,5 +1,5 @@
 # Student name: Edward Wagstaffe
-# UOW ID: 8762697
+# UOW ID: -
 # ARP poisoning
 # CSCI369 - Assignment (Task 1)
 # Script to perform ARP spoofing for man-in-the-middle attack simulation.
