@@ -1,6 +1,6 @@
 # Student name: Edward Wagstaffe
-# UOW ID: 8762697
-# Simple ransomeware
+# UOW ID: -
+# Simple ransomware
 # CSCI369 - Assignment (Task 3)
 # Encrypts a file called my_secrets.txt in the root directory of the victim
 # Machines used:
