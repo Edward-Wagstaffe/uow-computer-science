@@ -1,5 +1,5 @@
 # Student name: Edward Wagstaffe
-# UOW ID: 8762697
+# UOW ID: -
 # Flask app to capture cookies from DVWA  
 # CSCI369 - Assignment (Task 2)
 # Demonstrates reflected XSS exploitation with cookie exfiltration
